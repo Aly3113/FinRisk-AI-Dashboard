@@ -1,0 +1,10 @@
+streamlit
+pandas
+scikit-learn
+imbalanced-learn
+matplotlib
+seaborn
+networkx
+pyvis
+yfinance
+plotly
